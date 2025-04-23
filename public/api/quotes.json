@@ -1,0 +1,66 @@
+[
+    {
+      "quoteId": "09876",
+      "clientName": "Theresa Heidenreich",
+      "type": "Life",
+      "status": "Pending",
+      "premiumAmount": 489,
+      "expireDate": "28.12.2030",
+      "lastUpdated": "23.10.2024"
+    },
+    {
+      "quoteId": "09875",
+      "clientName": "Elijah Block-Schaden",
+      "type": "Business",
+      "status": "Pending",
+      "premiumAmount": 3249,
+      "expireDate": "31.12.2024",
+      "lastUpdated": "22.10.2024"
+    },
+    {
+      "quoteId": "09874",
+      "clientName": "Raul Padberg",
+      "type": "House",
+      "status": "Approved",
+      "premiumAmount": 234,
+      "expireDate": "31.12.2029",
+      "lastUpdated": "23.10.2024"
+    },
+    {
+      "quoteId": "09873",
+      "clientName": "Olive Grant",
+      "type": "Travel",
+      "status": "Expired",
+      "premiumAmount": 80,
+      "expireDate": "21.09.2024",
+      "lastUpdated": "12.06.2024"
+    },
+    {
+      "quoteId": "09872",
+      "clientName": "Jerome Mueller",
+      "type": "Vehicle",
+      "status": "Approved",
+      "premiumAmount": 89,
+      "expireDate": "23.10.2025",
+      "lastUpdated": "23.10.2024"
+    },
+    {
+      "quoteId": "09871",
+      "clientName": "Michelle Gerlach",
+      "type": "Life",
+      "status": "Pending",
+      "premiumAmount": 489,
+      "expireDate": "28.12.2030",
+      "lastUpdated": "23.10.2024"
+    },
+    {
+      "quoteId": "09870",
+      "clientName": "Randolph Gleichner",
+      "type": "Life",
+      "status": "Rejected",
+      "premiumAmount": 489,
+      "expireDate": "28.12.2030",
+      "lastUpdated": "23.10.2024"
+    }
+  ]
+  

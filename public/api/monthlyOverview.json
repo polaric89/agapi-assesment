@@ -1,0 +1,39 @@
+[
+    {
+      "label": "Approved Quotes",
+      "value": 12,
+      "percent": "10.24%",
+      "color": "green",
+      "chartColor": "#22C55E",
+      "areaColor": "#DCFCE7",
+      "data": [5, 6, 8, 7, 10, 12, 12]
+    },
+    {
+      "label": "Expired Quotes",
+      "value": 8,
+      "percent": "9.43%",
+      "color": "red",
+      "chartColor": "#F97316",
+      "areaColor": "#FEF3C7",
+      "data": [3, 5, 4, 6, 5, 7, 8]
+    },
+    {
+      "label": "Rejected Quotes",
+      "value": 4,
+      "percent": "5.23%",
+      "color": "red",
+      "chartColor": "#EF4444",
+      "areaColor": "#FECACA",
+      "data": [2, 3, 2, 4, 3, 4, 4]
+    },
+    {
+      "label": "Pending Quotes",
+      "value": 21,
+      "percent": "5.23%",
+      "color": "green",
+      "chartColor": "#3B82F6",
+      "areaColor": "#DBEAFE",
+      "data": [10, 12, 11, 14, 18, 19, 21]
+    }
+  ]
+  

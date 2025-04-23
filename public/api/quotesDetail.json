@@ -1,0 +1,525 @@
+[
+  {
+    "quoteId": "09870",
+    "clientName": "Randolph Gleichner",
+    "gender": "Male",
+    "occupation": "SEO Expert",
+    "mobile": "+971 11 111 6985",
+    "homePhone": "+971 22 222 8555",
+    "emailAdd": "randolh@gmail.com",
+    "homeAdd": "Dubai, UAE",
+    "policyType": "Semi-Comprehensive Auto Insurance",
+    "policyDescription": "Full vehicle coverage including third-party liability.",
+    "coverageAmount": "$50,000",
+    "deductible": "$500",
+    "prevPolicy": [
+      {
+        "label": "Policy #P-567899-5675",
+        "status": "Active"
+      },
+      {
+        "label": "Policy #P-456456-456",
+        "status": "Expired"
+      }
+    ],
+    "premiumAmount": "$120 per month",
+    "annualPremium": "$1400",
+    "discounts": [
+      {
+        "label": "Safe Driver Discount",
+        "amount": "-$50"
+      },
+      {
+        "label": "Multi Policy Discount",
+        "amount": "-$50"
+      }
+    ],
+    "totalCharge": "$1320",
+    "tax": "$20",
+    "finalPremium": "$1340",
+    "effectiveDate": "2024-10-15",
+    "expirationDate": "2025-10-14",
+    "status": "Pending",
+    "supportingDocs": [
+      "Auto Insurance Terms & Conditions.pdf",
+      "Customer ID Proof.pdf",
+      "Vehicle Registration Document.pdf"
+    ],
+"activityLog": [
+      {
+        "date": "20\u201310\u20132023",
+        "message": "Client requested a quote update for adding rental car coverage."
+      },
+      {
+        "date": "19\u201310\u20132023",
+        "message": "Broker sent a follow-up email for quote confirmation."
+      },
+      {
+        "date": "18\u201310\u20132023",
+        "message": "Client requested a quote update for adding rental car coverage."
+      },
+      {
+        "date": "17\u201310\u20132023",
+        "message": "Broker sent a follow-up email for quote confirmation."
+      },
+      {
+        "date": "16\u201310\u20132023",
+        "message": "Client requested a quote update for adding rental car coverage."
+      }
+    ]
+  },
+  {
+    "quoteId": "09871",
+    "clientName": "Michelle Gerlach",
+    "gender": "Female",
+    "occupation": "SEO Retail",
+    "mobile": "+971 58 489 6666",
+    "homePhone": "+971 58 897 4444",
+    "emailAdd": "michelle@gmail.com",
+    "homeAdd": "Al Rigga, Dubai",
+    "policyType": "Full-Comprehensive Auto Insurance",
+    "policyDescription": "Full vehicle coverage including third-party liability.",
+    "coverageAmount": "$50,000",
+    "deductible": "$500",
+    "prevPolicy": [
+      {
+        "label": "Policy #P-555555-5675",
+        "status": "Active"
+      },
+      {
+        "label": "Policy #P-111111-456",
+        "status": "Expired"
+      }
+    ],
+    "premiumAmount": "$120 per month",
+    "annualPremium": "$1400",
+    "discounts": [
+      {
+        "label": "Safe Driver Discount",
+        "amount": "-$50"
+      },
+      {
+        "label": "Multi Policy Discount",
+        "amount": "-$50"
+      }
+    ],
+    "totalCharge": "$1320",
+    "tax": "$20",
+    "finalPremium": "$1340",
+    "effectiveDate": "2024-10-15",
+    "expirationDate": "2025-10-14",
+    "status": "Pending",
+    "supportingDocs": [
+      "Auto Insurance Terms & Conditions.pdf",
+      "Customer ID Proof.pdf",
+      "Vehicle Registration Document.pdf"
+    ],
+"activityLog": [
+      {
+        "date": "20\u201310\u20132023",
+        "message": "Client requested a quote update for adding rental car coverage."
+      },
+      {
+        "date": "19\u201310\u20132023",
+        "message": "Broker sent a follow-up email for quote confirmation."
+      },
+      {
+        "date": "18\u201310\u20132023",
+        "message": "Client requested a quote update for adding rental car coverage."
+      },
+      {
+        "date": "14\u201310\u20132023",
+        "message": "Client requested a quote update for adding rental car coverage."
+      },
+      {
+        "date": "13\u201310\u20132023",
+        "message": "Broker sent a follow-up email for quote confirmation."
+      }
+    ]
+  },
+  {
+    "quoteId": "09872",
+    "clientName": "Jerome Mueller",
+    "gender": "Male",
+    "occupation": "Developer",
+    "mobile": "+971 58 489 4432",
+    "homePhone": "+971 58 897 2222",
+    "emailAdd": "jerome@gmail.com",
+    "homeAdd": "Al Rigga",
+    "policyType": "Full-Comprehensive Auto Insurance",
+    "policyDescription": "Full vehicle coverage including third-party liability.",
+    "coverageAmount": "$50,000",
+    "deductible": "$500",
+    "prevPolicy": [
+      {
+        "label": "Policy #P-12345",
+        "status": "Active"
+      },
+      {
+        "label": "Policy #P-6789",
+        "status": "Expired"
+      }
+    ],
+    "premiumAmount": "$120 per month",
+    "annualPremium": "$1400",
+    "discounts": [
+      {
+        "label": "Safe Driver Discount",
+        "amount": "-$50"
+      },
+      {
+        "label": "Multi Policy Discount",
+        "amount": "-$50"
+      }
+    ],
+    "totalCharge": "$1320",
+    "tax": "$20",
+    "finalPremium": "$1340",
+    "effectiveDate": "2024-10-15",
+    "expirationDate": "2025-10-14",
+    "status": "Pending",
+    "supportingDocs": [
+      "Auto Insurance Terms & Conditions.pdf",
+      "Customer ID Proof.pdf",
+      "Vehicle Registration Document.pdf"
+    ],
+"activityLog": [
+      {
+        "date": "20\u201310\u20132023",
+        "message": "Client requested a quote update for adding rental car coverage."
+      },
+      {
+        "date": "19\u201310\u20132023",
+        "message": "Broker sent a follow-up email for quote confirmation."
+      },
+      {
+        "date": "18\u201310\u20132023",
+        "message": "Client requested a quote update for adding rental car coverage."
+      },
+      {
+        "date": "17\u201310\u20132023",
+        "message": "Broker sent a follow-up email for quote confirmation."
+      },
+      {
+        "date": "16\u201310\u20132023",
+        "message": "Client requested a quote update for adding rental car coverage."
+      },
+      {
+        "date": "15\u201310\u20132023",
+        "message": "Broker sent a follow-up email for quote confirmation."
+      },
+      {
+        "date": "14\u201310\u20132023",
+        "message": "Client requested a quote update for adding rental car coverage."
+      },
+      {
+        "date": "13\u201310\u20132023",
+        "message": "Broker sent a follow-up email for quote confirmation."
+      }
+    ]
+  },
+  {
+    "quoteId": "09873",
+    "clientName": "Olive Grant",
+    "gender": "Male",
+    "occupation": "Front End Developer",
+    "mobile": "+971 58 489 7890",
+    "homePhone": "+971 58 897 5555",
+    "emailAdd": "olive@gmail.com",
+    "homeAdd": "K1 Bldg",
+    "policyType": "Comprehensive House Insurance",
+    "policyDescription": "Full House coverage including third-party liability.",
+    "coverageAmount": "$50,000",
+    "deductible": "$500",
+    "prevPolicy": [
+      {
+        "label": "Policy #P-888888-5675",
+        "status": "Active"
+      },
+      {
+        "label": "Policy #P-555555-456",
+        "status": "Expired"
+      }
+    ],
+    "premiumAmount": "$120 per month",
+    "annualPremium": "$1400",
+    "discounts": [
+      {
+        "label": "Safe Driver Discount",
+        "amount": "-$50"
+      },
+      {
+        "label": "Multi Policy Discount",
+        "amount": "-$50"
+      }
+    ],
+    "totalCharge": "$1320",
+    "tax": "$20",
+    "finalPremium": "$1340",
+    "effectiveDate": "2024-10-15",
+    "expirationDate": "2025-10-14",
+    "status": "Pending",
+    "supportingDocs": [
+      "Auto Insurance Terms & Conditions.pdf",
+      "Customer ID Proof.pdf",
+      "Vehicle Registration Document.pdf"
+    ],
+"activityLog": [
+      {
+        "date": "20\u201310\u20132023",
+        "message": "Client requested a quote update for adding rental car coverage."
+      },
+      {
+        "date": "19\u201310\u20132023",
+        "message": "Broker sent a follow-up email for quote confirmation."
+      },
+      {
+        "date": "18\u201310\u20132023",
+        "message": "Client requested a quote update for adding rental car coverage."
+      },
+      {
+        "date": "17\u201310\u20132023",
+        "message": "Broker sent a follow-up email for quote confirmation."
+      },
+      {
+        "date": "13\u201310\u20132023",
+        "message": "Broker sent a follow-up email for quote confirmation."
+      }
+    ]
+  },
+  {
+    "quoteId": "09874",
+    "clientName": "Raul Padberg",
+    "gender": "Male",
+    "occupation": "Marketing Advert",
+    "mobile": "+971 58 456 7889",
+    "homePhone": "+971 58 897 4444",
+    "emailAdd": "raul@gmail.com",
+    "homeAdd": "Deira",
+    "policyType": "Comprehensive Condo Insurance",
+    "policyDescription": "Full Condo coverage including third-party liability.",
+    "coverageAmount": "$50,000",
+    "deductible": "$500",
+    "prevPolicy": [
+      {
+        "label": "Policy #P-555555-2222",
+        "status": "Active"
+      },
+      {
+        "label": "Policy #P-333333-1111",
+        "status": "Expired"
+      }
+    ],
+    "premiumAmount": "$120 per month",
+    "annualPremium": "$1400",
+    "discounts": [
+      {
+        "label": "Safe Driver Discount",
+        "amount": "-$50"
+      },
+      {
+        "label": "Multi Policy Discount",
+        "amount": "-$50"
+      }
+    ],
+    "totalCharge": "$1320",
+    "tax": "$20",
+    "finalPremium": "$1340",
+    "effectiveDate": "2024-10-15",
+    "expirationDate": "2025-10-14",
+    "status": "Pending",
+    "supportingDocs": [
+      "Auto Insurance Terms & Conditions.pdf",
+      "Customer ID Proof.pdf",
+      "Vehicle Registration Document.pdf"
+    ],
+"activityLog": [
+      {
+        "date": "20\u201310\u20132023",
+        "message": "Client requested a quote update for adding rental car coverage."
+      },
+      {
+        "date": "19\u201310\u20132023",
+        "message": "Broker sent a follow-up email for quote confirmation."
+      },
+      {
+        "date": "16\u201310\u20132023",
+        "message": "Client requested a quote update for adding rental car coverage."
+      },
+      {
+        "date": "15\u201310\u20132023",
+        "message": "Broker sent a follow-up email for quote confirmation."
+      },
+      {
+        "date": "14\u201310\u20132023",
+        "message": "Client requested a quote update for adding rental car coverage."
+      },
+      {
+        "date": "13\u201310\u20132023",
+        "message": "Broker sent a follow-up email for quote confirmation."
+      }
+    ]
+  },
+  {
+    "quoteId": "09875",
+    "clientName": "Elijah Block-Schaden",
+    "gender": "Male",
+    "occupation": "SEO Expert",
+    "mobile": "+971 58 489 4567",
+    "homePhone": "+971 58 897 1111",
+    "emailAdd": "eliha@gmail.com",
+    "homeAdd": "Business Bay",
+    "policyType": "Comprehensive Motor Insurance",
+    "policyDescription": "Full Motor coverage including third-party liability.",
+    "coverageAmount": "$50,000",
+    "deductible": "$500",
+    "prevPolicy": [
+      {
+        "label": "Policy #P-111111-5675",
+        "status": "Active"
+      },
+      {
+        "label": "Policy #P-222222-456",
+        "status": "Expired"
+      }
+    ],
+    "premiumAmount": "$120 per month",
+    "annualPremium": "$1400",
+    "discounts": [
+      {
+        "label": "Safe Driver Discount",
+        "amount": "-$50"
+      },
+      {
+        "label": "Multi Policy Discount",
+        "amount": "-$50"
+      }
+    ],
+    "totalCharge": "$1320",
+    "tax": "$20",
+    "finalPremium": "$1340",
+    "effectiveDate": "2024-10-15",
+    "expirationDate": "2025-10-14",
+    "status": "Pending",
+    "supportingDocs": [
+      "Auto Insurance Terms & Conditions.pdf",
+      "Customer ID Proof.pdf",
+      "Vehicle Registration Document.pdf"
+    ],
+  "activityLog": [
+      {
+        "date": "20\u201310\u20132023",
+        "message": "Client requested a quote update for adding rental car coverage."
+      },
+      {
+        "date": "19\u201310\u20132023",
+        "message": "Broker sent a follow-up email for quote confirmation."
+      },
+      {
+        "date": "18\u201310\u20132023",
+        "message": "Client requested a quote update for adding rental car coverage."
+      },
+      {
+        "date": "17\u201310\u20132023",
+        "message": "Broker sent a follow-up email for quote confirmation."
+      },
+      {
+        "date": "16\u201310\u20132023",
+        "message": "Client requested a quote update for adding rental car coverage."
+      },
+      {
+        "date": "15\u201310\u20132023",
+        "message": "Broker sent a follow-up email for quote confirmation."
+      },
+      {
+        "date": "14\u201310\u20132023",
+        "message": "Client requested a quote update for adding rental car coverage."
+      },
+      {
+        "date": "13\u201310\u20132023",
+        "message": "Broker sent a follow-up email for quote confirmation."
+      }
+    ]
+  },
+  {
+    "quoteId": "09876",
+    "clientName": "Theresa Heidenreich",
+    "gender": "Female",
+    "occupation": "SEO Expert Senior",
+    "mobile": "+971 58 489 6985",
+    "homePhone": "+971 58 897 8555",
+    "emailAdd": "therese@gmail.com",
+    "homeAdd": "Al Rigga",
+    "policyType": "Comprehensive Gadget Insurance",
+    "policyDescription": "Full gadget coverage including third-party liability.",
+    "coverageAmount": "$50,000",
+    "deductible": "$500",
+    "prevPolicy": [
+      {
+        "label": "Policy #P-555555-5675",
+        "status": "Active"
+      },
+      {
+        "label": "Policy #P-222222-456",
+        "status": "Expired"
+      }
+    ],
+    "premiumAmount": "$120 per month",
+    "annualPremium": "$1400",
+    "discounts": [
+      {
+        "label": "Safe Driver Discount",
+        "amount": "-$50"
+      },
+      {
+        "label": "Multi Policy Discount",
+        "amount": "-$50"
+      }
+    ],
+    "totalCharge": "$1320",
+    "tax": "$20",
+    "finalPremium": "$1340",
+    "effectiveDate": "2024-10-15",
+    "expirationDate": "2025-10-14",
+    "status": "Pending",
+    "supportingDocs": [
+      "Auto Insurance Terms & Conditions.pdf",
+      "Customer ID Proof.pdf",
+      "Vehicle Registration Document.pdf"
+    ],
+    "activityLog": [
+      {
+        "date": "20\u201310\u20132023",
+        "message": "Client requested a quote update for adding rental car coverage."
+      },
+      {
+        "date": "19\u201310\u20132023",
+        "message": "Broker sent a follow-up email for quote confirmation."
+      },
+      {
+        "date": "18\u201310\u20132023",
+        "message": "Client requested a quote update for adding rental car coverage."
+      },
+      {
+        "date": "17\u201310\u20132023",
+        "message": "Broker sent a follow-up email for quote confirmation."
+      },
+      {
+        "date": "16\u201310\u20132023",
+        "message": "Client requested a quote update for adding rental car coverage."
+      },
+      {
+        "date": "15\u201310\u20132023",
+        "message": "Broker sent a follow-up email for quote confirmation."
+      },
+      {
+        "date": "14\u201310\u20132023",
+        "message": "Client requested a quote update for adding rental car coverage."
+      },
+      {
+        "date": "13\u201310\u20132023",
+        "message": "Broker sent a follow-up email for quote confirmation."
+      }
+    ]
+  }
+]
